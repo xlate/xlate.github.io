@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# test
+# xlate.io
 
-testing site
+main text
