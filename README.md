@@ -1,4 +1,4 @@
 # xlate.github.io
 Organization Page
 
-https://www.xlate.io
+https://xlate.github.io
